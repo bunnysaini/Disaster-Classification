@@ -1,5 +1,5 @@
-# Disaster Classifciation using CNNs
-bunnysaini/Disaster-Classifciation 
+# Disaster Classificiation using CNNs
+bunnysaini/Disaster-Classificiation 
 
 ## Goal 
 To prepare an image processing model to classify the type of disaster based on the image dataset.
