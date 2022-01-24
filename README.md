@@ -1,4 +1,4 @@
-# DisasterClassifciation using CNNs
+# Disaster Classifciation using CNNs
 bunnysaini/Disaster-Classifciation 
 
 ## Goal 
